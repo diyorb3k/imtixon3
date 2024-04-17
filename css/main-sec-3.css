@@ -1,0 +1,178 @@
+.econ_itim {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.icon-1 {
+  display: flex;
+  gap: 30px;
+  padding-top: 62px;
+}
+.icon-1 h4 {
+  font-family: Exo;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 27px;
+  margin: 0;
+}
+.icon-1 p {
+  font-family: PT Sans;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  max-width: 291px;
+  width: 100%;
+}
+
+.main-heroo {
+  margin-top: 120px;
+}
+.main-heroo h3 {
+  margin: 0;
+  font-family: Exo;
+  font-size: 48px;
+  font-weight: 600;
+  line-height: 60px;
+  max-width: 687px;
+}
+.main-heroo p {
+  padding-top: 22px;
+  font-family: PT Sans;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  max-width: 627px;
+  width: 100%;
+  color: #6b6b6c;
+}
+
+.blog-grup {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 56px;
+  gap: 32px;
+}
+.blog-grup .blog-1 {
+  box-shadow: 0px 10px 20px 0px rgb(134, 134, 134);
+  max-width: 393px;
+  width: 100%;
+  border-radius: 10px;
+  margin-bottom: 32px;
+  padding-bottom: 32px;
+}
+.blog-grup .blog-1 img {
+  max-width: 393px;
+  width: 100%;
+}
+.blog-grup .blog-1 h6 {
+  margin: 0;
+  padding-top: 24px;
+  font-size: 20px;
+  padding-bottom: 16px;
+}
+.blog-grup .blog-1 p {
+  max-width: 291px;
+  width: 100%;
+  font-family: PT Sans;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #6b6b6c;
+  padding-bottom: 30px;
+}
+.blog-grup h5 {
+  border-bottom: 3px solid #ffce50;
+  width: 80px;
+  padding-left: 5px;
+  margin: 0;
+}
+
+.blog-tex {
+  padding-left: 32px;
+}
+
+.tab-blog {
+  max-width: 1239px;
+  width: 100%;
+  background-color: #0b7572;
+}
+.tab-blog .table {
+  padding: 28px 32px 40px 32px;
+  max-width: 652px;
+  width: 100%;
+  background-color: white;
+  border-radius: 8px;
+}
+.tab-blog .table-header {
+  display: flex;
+  padding-bottom: 32px;
+  justify-content: space-between;
+}
+.tab-blog .table-header p {
+  max-width: 274px;
+  width: 100%;
+  font-family: PT Sans;
+  font-size: 11px;
+  font-weight: 400;
+  line-height: 16.5px;
+  color: #6b6b6c;
+}
+
+table .table2 {
+  padding: 20px 0;
+}
+table .table2 .box {
+  background-color: #0b7572;
+  height: 50px;
+}
+table .table2 .box th {
+  color: white;
+}
+
+.tex-post {
+  margin: 0;
+  font-family: Exo;
+  font-size: 48px;
+  font-weight: 600;
+  line-height: 60px;
+  text-align: left;
+}
+
+.postavki {
+  margin-top: 24px;
+  gap: 56px;
+  display: flex;
+  box-shadow: 0px 10px 20px 0px rgb(134, 134, 134);
+  max-width: 1183px;
+  width: 100%;
+  border-radius: 10px;
+}
+.postavki .card-img img {
+  padding: 32px 0px 32px 96px;
+}
+.postavki .tex_left h6 {
+  padding-top: 32px;
+  margin-bottom: 32px;
+  margin: 0;
+  font-family: Exo;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 25px;
+  color: #363738;
+  max-width: 258px;
+}
+.postavki .tex_left .borr {
+  border: 3px solid #ffce50;
+  width: 86px;
+}
+.postavki .tex_left p {
+  padding-top: 32px;
+  max-width: 568px;
+  width: 100%;
+  font-family: PT Sans;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #6b6b6c;
+}/*# sourceMappingURL=main-sec-3.css.map */
