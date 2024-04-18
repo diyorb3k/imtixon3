@@ -565,6 +565,7 @@ nav {
         width: 86px;
       }
       p {
+        padding-left: 85px;
         text-align: center;
         // padding-top: 32px;
         max-width: 568px;
@@ -576,5 +577,11 @@ nav {
         color: #6b6b6c;
       }
     }
+  }
+  .contact-grup {
+    margin-top: 72px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
   }
 }
