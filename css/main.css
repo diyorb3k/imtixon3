@@ -713,6 +713,11 @@ input[type=checkbox], input[type=radio] {
 }
 
 .tab-blog {
+  padding-top: 85px;
+  padding-bottom: 85px;
+  padding-right: 66px;
+  justify-content: space-between;
+  display: flex;
   max-width: 1239px;
   width: 100%;
   background-color: #0b7572;
