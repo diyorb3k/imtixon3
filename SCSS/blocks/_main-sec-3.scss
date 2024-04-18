@@ -286,7 +286,7 @@ table {
       padding-top: 47px;
       h6 {
         margin: 0;
-        font-family: Exo 2;
+        font-family: Exo;
         font-size: 20px;
         font-weight: 600;
         line-height: 24px;
@@ -332,7 +332,7 @@ table {
   }
   h6 {
     margin: 0;
-    font-family: Exo 2;
+    font-family: Exo;
     font-size: 20px;
     font-weight: 600;
     line-height: 24px;
@@ -352,7 +352,7 @@ table {
     padding: 40px 72px 56px 48px;
     span {
       // padding-right: 160px;
-      font-family: Exo 2;
+      font-family: Exo;
       font-size: 16px;
       font-weight: 600;
       line-height: 20px;
@@ -367,7 +367,7 @@ table {
       color: #6b6b6c;
     }
     h6 {
-      font-family: Exo 2;
+      font-family: Exo;
       font-size: 16px;
       font-weight: 600;
       line-height: 20px;
@@ -424,7 +424,7 @@ table {
   justify-content: space-between;
 }
 .nash_contakt {
-  font-family: Exo 2;
+  font-family: Exo;
   font-size: 48px;
   font-weight: 600;
   line-height: 60px;
@@ -512,5 +512,15 @@ nav {
     margin: 0 auto;
     width: 100%;
     margin-left: 50px;
+  }
+}
+@media (max-width: 880px) {
+  .blog-grup {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 56px;
+    gap: 32px;
+    flex-wrap: wrap;
+    margin: auto;
   }
 }

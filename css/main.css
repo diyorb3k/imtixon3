@@ -912,7 +912,7 @@ table .table2 .box th {
 }
 .info_box .info_box_card .info_box_card_par h6 {
   margin: 0;
-  font-family: Exo 2;
+  font-family: Exo;
   font-size: 20px;
   font-weight: 600;
   line-height: 24px;
@@ -954,7 +954,7 @@ table .table2 .box th {
 }
 .contact-nomer h6 {
   margin: 0;
-  font-family: Exo 2;
+  font-family: Exo;
   font-size: 20px;
   font-weight: 600;
   line-height: 24px;
@@ -973,7 +973,7 @@ table .table2 .box th {
   padding: 40px 72px 56px 48px;
 }
 .contact-righ .verstca span {
-  font-family: Exo 2;
+  font-family: Exo;
   font-size: 16px;
   font-weight: 600;
   line-height: 20px;
@@ -988,7 +988,7 @@ table .table2 .box th {
   color: #6b6b6c;
 }
 .contact-righ .verstca h6 {
-  font-family: Exo 2;
+  font-family: Exo;
   font-size: 16px;
   font-weight: 600;
   line-height: 20px;
@@ -1048,7 +1048,7 @@ table .table2 .box th {
 }
 
 .nash_contakt {
-  font-family: Exo 2;
+  font-family: Exo;
   font-size: 48px;
   font-weight: 600;
   line-height: 60px;
@@ -1137,6 +1137,16 @@ nav ul li a img {
     margin: 0 auto;
     width: 100%;
     margin-left: 50px;
+  }
+}
+@media (max-width: 880px) {
+  .blog-grup {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 56px;
+    gap: 32px;
+    flex-wrap: wrap;
+    margin: auto;
   }
 }
 .econ_itim {
@@ -1416,7 +1426,7 @@ table .table2 .box th {
 }
 .info_box .info_box_card .info_box_card_par h6 {
   margin: 0;
-  font-family: Exo 2;
+  font-family: Exo;
   font-size: 20px;
   font-weight: 600;
   line-height: 24px;
@@ -1458,7 +1468,7 @@ table .table2 .box th {
 }
 .contact-nomer h6 {
   margin: 0;
-  font-family: Exo 2;
+  font-family: Exo;
   font-size: 20px;
   font-weight: 600;
   line-height: 24px;
@@ -1477,7 +1487,7 @@ table .table2 .box th {
   padding: 40px 72px 56px 48px;
 }
 .contact-righ .verstca span {
-  font-family: Exo 2;
+  font-family: Exo;
   font-size: 16px;
   font-weight: 600;
   line-height: 20px;
@@ -1492,7 +1502,7 @@ table .table2 .box th {
   color: #6b6b6c;
 }
 .contact-righ .verstca h6 {
-  font-family: Exo 2;
+  font-family: Exo;
   font-size: 16px;
   font-weight: 600;
   line-height: 20px;
@@ -1552,7 +1562,7 @@ table .table2 .box th {
 }
 
 .nash_contakt {
-  font-family: Exo 2;
+  font-family: Exo;
   font-size: 48px;
   font-weight: 600;
   line-height: 60px;
@@ -1641,5 +1651,15 @@ nav ul li a img {
     margin: 0 auto;
     width: 100%;
     margin-left: 50px;
+  }
+}
+@media (max-width: 880px) {
+  .blog-grup {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 56px;
+    gap: 32px;
+    flex-wrap: wrap;
+    margin: auto;
   }
 }/*# sourceMappingURL=main.css.map */
