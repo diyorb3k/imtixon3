@@ -584,4 +584,11 @@ nav {
     flex-direction: column;
     justify-content: space-between;
   }
+  .info_box {
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+  }
 }

@@ -1212,6 +1212,13 @@ nav ul li a img {
     flex-direction: column;
     justify-content: space-between;
   }
+  .info_box {
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+  }
 }
 .econ_itim {
   display: flex;
@@ -1779,5 +1786,12 @@ nav ul li a img {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+  }
+  .info_box {
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
   }
 }/*# sourceMappingURL=main.css.map */
