@@ -1166,8 +1166,9 @@ nav ul li a img {
     margin: 0 auto;
   }
   .postavki {
-    margin-top: 24px;
+    margin-top: 34px;
     gap: 56px;
+    margin: auto;
     flex-direction: column;
     box-shadow: 0px 10px 20px 0px rgb(134, 134, 134);
     max-width: 1183px;
@@ -1206,6 +1207,14 @@ nav ul li a img {
     line-height: 24px;
     color: #6b6b6c;
   }
+  .postavki .hr-grup {
+    margin-left: 48px;
+    margin-right: 80px;
+    border: 1px solid #e9eaf2;
+    text-align: center;
+    width: 674px;
+    margin-top: -50px;
+  }
   .contact-grup {
     margin-top: 72px;
     display: flex;
@@ -1217,6 +1226,10 @@ nav ul li a img {
     flex-wrap: wrap;
     margin: auto;
     align-items: center;
+    justify-content: center;
+  }
+  .postavki_gur {
+    margin: auto;
     justify-content: center;
   }
 }
@@ -1741,8 +1754,9 @@ nav ul li a img {
     margin: 0 auto;
   }
   .postavki {
-    margin-top: 24px;
+    margin-top: 34px;
     gap: 56px;
+    margin: auto;
     flex-direction: column;
     box-shadow: 0px 10px 20px 0px rgb(134, 134, 134);
     max-width: 1183px;
@@ -1781,6 +1795,14 @@ nav ul li a img {
     line-height: 24px;
     color: #6b6b6c;
   }
+  .postavki .hr-grup {
+    margin-left: 48px;
+    margin-right: 80px;
+    border: 1px solid #e9eaf2;
+    text-align: center;
+    width: 674px;
+    margin-top: -50px;
+  }
   .contact-grup {
     margin-top: 72px;
     display: flex;
@@ -1792,6 +1814,10 @@ nav ul li a img {
     flex-wrap: wrap;
     margin: auto;
     align-items: center;
+    justify-content: center;
+  }
+  .postavki_gur {
+    margin: auto;
     justify-content: center;
   }
 }/*# sourceMappingURL=main.css.map */

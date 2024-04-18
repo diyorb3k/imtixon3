@@ -532,8 +532,9 @@ nav {
   }
 
   .postavki {
-    margin-top: 24px;
+    margin-top: 34px;
     gap: 56px;
+    margin: auto;
     flex-direction: column;
     box-shadow: 0px 10px 20px 0px rgb(134, 134, 134);
     max-width: 1183px;
@@ -577,6 +578,15 @@ nav {
         color: #6b6b6c;
       }
     }
+    .hr-grup {
+      // padding: 0px 72px 0px 48px;
+      margin-left: 48px;
+      margin-right: 80px;
+      border: 1px solid #e9eaf2;
+      text-align: center;
+      width: 674px;
+      margin-top: -50px;
+    }
   }
   .contact-grup {
     margin-top: 72px;
@@ -589,6 +599,10 @@ nav {
     flex-wrap: wrap;
     margin: auto;
     align-items: center;
+    justify-content: center;
+  }
+  .postavki_gur {
+    margin: auto;
     justify-content: center;
   }
 }
