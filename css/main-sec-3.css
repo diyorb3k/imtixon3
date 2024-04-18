@@ -447,6 +447,11 @@ nav ul li {
   list-style: none;
 }
 nav ul li a {
+  font-family: Exo;
+  font-size: 8px;
+  font-weight: 500;
+  line-height: 12px;
+  letter-spacing: 0.16em;
   text-decoration: none;
   font-family: Exo 2;
   font-size: 13px;
@@ -477,7 +482,7 @@ nav ul li a img {
 @media (max-width: 974px) {
   .tab-blog {
     flex-wrap: wrap;
-    margin: o auto;
+    margin: 0 auto;
     width: 100%;
     margin-left: 50px;
   }

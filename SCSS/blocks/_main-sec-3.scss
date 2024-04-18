@@ -315,6 +315,7 @@ table {
     }
   }
 }
+
 // SECTION
 
 .contact-nomer {
@@ -386,6 +387,17 @@ table {
     margin-top: -50px;
   }
 }
+.table_text {
+  padding-left: 81px;
+  max-width: 477px;
+  width: 100%;
+  color: white;
+  font-family: Exo;
+  font-size: 48px;
+  font-weight: 600;
+  line-height: 60px;
+  // text-align: left;
+}
 .lout {
   margin-right: 350px;
 }
@@ -422,11 +434,11 @@ table {
   margin-top: 46px;
   margin-bottom: 166px;
 }
-ul {
-  img {
-    // background-color: #ffce50;
-  }
-}
+// ul {
+//   img {
+//     // background-color: #ffce50;
+//   }
+// }
 footer {
   background-color: #0b7572;
 }
@@ -457,6 +469,12 @@ nav {
     li {
       list-style: none;
       a {
+        font-family: Exo;
+        font-size: 8px;
+        font-weight: 500;
+        line-height: 12px;
+        letter-spacing: 0.16em;
+
         img {
           padding-bottom: 32px;
         }
@@ -488,7 +506,7 @@ nav {
 @media (max-width: 974px) {
   .tab-blog {
     flex-wrap: wrap;
-    margin: o auto;
+    margin: 0 auto;
     width: 100%;
     margin-left: 50px;
   }
