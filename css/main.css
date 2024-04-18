@@ -793,4 +793,193 @@ table .table2 .box th {
   font-weight: 400;
   line-height: 24px;
   color: #6b6b6c;
+}
+
+.section-top {
+  margin-top: 120px;
+  margin-bottom: 20px;
+  font-family: Exo 2;
+  font-size: 48px;
+  font-weight: 600;
+  line-height: 60px;
+  color: #363738;
+}
+
+.text-box {
+  font-family: Exo;
+  font-size: 48px;
+  font-weight: 600;
+  line-height: 60px;
+  color: #363738;
+  margin-bottom: 90px;
+}
+
+.econ_text {
+  display: flex;
+  max-width: 257px;
+  width: 100%;
+  justify-content: space-between;
+  margin-top: 80px;
+}
+.econ_text .econ-item-1 {
+  max-width: 190px;
+  width: 100%;
+  text-align: center;
+}
+.econ_text .econ-item-1 h6 {
+  padding-top: 32px;
+  margin: 0;
+  font-family: Exo;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 27px;
+  color: #363738;
+}
+.econ_text .econ-item-1 p {
+  font-family: PT Sans;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 21px;
+  color: #6b6b6c;
+}
+.econ_text .boredr_righ {
+  width: 0;
+  height: 180px;
+  border: 1px solid #d7d7dd;
+}
+
+.econ_bloc {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.info_box {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+}
+.info_box .info_box_card {
+  margin-top: 24px;
+  height: auto;
+  width: 580px;
+  display: flex;
+  border-radius: 10px;
+  box-shadow: 0px 10px 20px 0px rgb(134, 134, 134);
+  overflow: hidden;
+}
+.info_box .info_box_card .row {
+  width: 40px;
+  height: 200px;
+  border-left: 51px solid #0b7572;
+}
+.info_box .info_box_card img {
+  max-width: 138px;
+  width: 100%;
+  padding: 0px 0px 0px 32px;
+}
+.info_box .info_box_card .info_box_card_par {
+  padding-left: 40px;
+  padding-top: 47px;
+}
+.info_box .info_box_card .info_box_card_par h6 {
+  margin: 0;
+  font-family: Exo 2;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 24px;
+  color: #363738;
+  padding-bottom: 12px;
+}
+.info_box .info_box_card .info_box_card_par p {
+  font-family: PT Sans;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 21px;
+  color: #6b6b6c;
+}
+.info_box .info_box_card .info_box_card_par .celi {
+  border: 3px solid #ffce50;
+  width: 86px;
+  margin-bottom: 8px;
+  height: 0;
+}
+.info_box .info_box_card .info_box_card_par .locals {
+  padding-top: 29px;
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.contact-nomer {
+  display: flex;
+  gap: 26px;
+  align-items: center;
+  margin-bottom: 20px;
+}
+.contact-nomer p {
+  font-family: PT Sans;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 21px;
+  color: #6b6b6c;
+}
+.contact-nomer h6 {
+  margin: 0;
+  font-family: Exo 2;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 24px;
+  color: #363738;
+}
+
+.contact-righ {
+  max-width: 794px;
+  width: 100%;
+  border-radius: 5px;
+  border: 1px solid;
+  background-color: #f9f9fb;
+}
+.contact-righ .verstca {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  padding: 40px 72px 56px 48px;
+}
+.contact-righ .verstca span {
+  padding-right: 160px;
+  font-family: Exo 2;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 20px;
+  text-align: left;
+  color: #363738;
+}
+.contact-righ .verstca p {
+  font-family: PT Sans;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 20px;
+  color: #6b6b6c;
+}
+.contact-righ .verstca h6 {
+  font-family: Exo 2;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 20px;
+  color: #363738;
+  padding-right: 100px;
+}
+.contact-righ .verstca .lorem_nomer {
+  margin-right: 40px;
+}
+.contact-righ .hr-grup {
+  margin-left: 148px;
+  border: 1px solid #e9eaf2;
+  text-align: center;
+  width: 674px;
+  margin-top: -50px;
 }/*# sourceMappingURL=main.css.map */
