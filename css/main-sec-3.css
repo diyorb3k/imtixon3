@@ -407,6 +407,31 @@ table .table2 .box th {
   margin-bottom: 166px;
 }
 
-ul img {
-  background-color: #ffce50;
+footer {
+  background-color: #0b7572;
+}
+
+nav {
+  padding-top: 80px;
+  display: flex;
+  justify-content: space-around;
+}
+nav ul button {
+  font-family: Open Sans, sans-serif;
+  font-size: 13px;
+  font-weight: 600;
+  line-height: 19.5px;
+  padding: 7px;
+}
+nav ul li {
+  list-style: none;
+}
+nav ul li a {
+  text-decoration: none;
+  font-family: Exo 2;
+  font-size: 13px;
+  font-weight: 500;
+  line-height: 19.5px;
+  letter-spacing: 0.16em;
+  color: white;
 }/*# sourceMappingURL=main-sec-3.css.map */
