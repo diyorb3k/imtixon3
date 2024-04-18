@@ -1036,12 +1036,23 @@ nav {
   display: flex;
   justify-content: space-around;
 }
+nav ul .telnomer {
+  font-family: Exo;
+  font-size: 13px;
+  font-weight: 600;
+  line-height: 19.5px;
+  color: white;
+}
 nav ul button {
+  color: white;
   font-family: Open Sans, sans-serif;
   font-size: 13px;
   font-weight: 600;
   line-height: 19.5px;
   padding: 7px;
+  background-color: #ffce50;
+  border: none;
+  margin-top: 39px;
 }
 nav ul li {
   list-style: none;
