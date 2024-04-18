@@ -416,6 +416,9 @@ nav {
   display: flex;
   justify-content: space-around;
 }
+nav ul {
+  line-height: 25px;
+}
 nav ul .telnomer {
   font-family: Exo;
   font-size: 13px;
@@ -445,6 +448,13 @@ nav ul li a {
   line-height: 19.5px;
   letter-spacing: 0.16em;
   color: white;
+}
+nav ul li a img {
+  padding-bottom: 32px;
+}
+
+.img-foter {
+  padding-bottom: 32px;
 }
 
 /*# sourceMappingURL=main-sec-3.css.map */

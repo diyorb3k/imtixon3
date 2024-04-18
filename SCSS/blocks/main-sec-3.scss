@@ -429,6 +429,7 @@ nav {
   display: flex;
   justify-content: space-around;
   ul {
+    line-height: 25px;
     .telnomer {
       font-family: Exo;
       font-size: 13px;
@@ -450,6 +451,9 @@ nav {
     li {
       list-style: none;
       a {
+        img {
+          padding-bottom: 32px;
+        }
         text-decoration: none;
         font-family: Exo 2;
         font-size: 13px;
@@ -460,4 +464,7 @@ nav {
       }
     }
   }
+}
+.img-foter {
+  padding-bottom: 32px;
 }
