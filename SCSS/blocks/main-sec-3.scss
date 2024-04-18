@@ -91,6 +91,7 @@
 }
 //main-sect-7
 .tab-blog {
+  flex-wrap: wrap;
   padding-top: 85px;
   padding-bottom: 85px;
   padding-right: 66px;
@@ -482,4 +483,13 @@ nav {
   text-align: center;
   color: white;
   padding-bottom: 29px;
+}
+
+@media (max-width: 974px) {
+  .tab-blog {
+    flex-wrap: wrap;
+    margin: o auto;
+    width: 100%;
+    margin-left: 50px;
+  }
 }

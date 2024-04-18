@@ -618,6 +618,30 @@ input[type=checkbox], input[type=radio] {
   color: white;
 }
 
+@media (max-width: 924px) {
+  .img {
+    display: none;
+    background: url(none);
+    background: none;
+    background-repeat: no-repeat;
+    background-position: right;
+    background-position-x: 200px;
+    display: flex;
+    position: relative;
+  }
+  .img .tex-box {
+    position: absolute;
+    margin-top: 200px;
+    margin-left: 90px;
+    max-width: 362px;
+    width: 100%;
+    font-family: Exo;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 60px;
+    color: white;
+  }
+}
 .econ_itim {
   display: flex;
   flex-wrap: wrap;
@@ -713,6 +737,7 @@ input[type=checkbox], input[type=radio] {
 }
 
 .tab-blog {
+  flex-wrap: wrap;
   padding-top: 85px;
   padding-bottom: 85px;
   padding-right: 66px;
@@ -1093,4 +1118,11 @@ nav ul li a img {
   padding-bottom: 29px;
 }
 
-/*# sourceMappingURL=main.css.map */
+@media (max-width: 974px) {
+  .tab-blog {
+    flex-wrap: wrap;
+    margin: o auto;
+    width: 100%;
+    margin-left: 50px;
+  }
+}/*# sourceMappingURL=main.css.map */

@@ -257,3 +257,27 @@
     }
   }
 }
+@media (max-width: 924px) {
+  .img {
+    display: none;
+    background: url(none);
+    background: none;
+    background-repeat: no-repeat;
+    background-position: right;
+    background-position-x: 200px;
+    display: flex;
+    position: relative;
+    .tex-box {
+      position: absolute;
+      margin-top: 200px;
+      margin-left: 90px;
+      max-width: 362px;
+      width: 100%;
+      font-family: Exo;
+      font-size: 48px;
+      font-weight: 600;
+      line-height: 60px;
+      color: white;
+    }
+  }
+}
