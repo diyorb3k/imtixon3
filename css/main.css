@@ -1077,4 +1077,15 @@ nav ul li a img {
   padding-bottom: 32px;
 }
 
+.footer_boton {
+  font-family: Exo;
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 18px;
+  letter-spacing: 0.16em;
+  text-align: center;
+  color: white;
+  padding-bottom: 29px;
+}
+
 /*# sourceMappingURL=main.css.map */
