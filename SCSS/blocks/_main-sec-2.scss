@@ -283,3 +283,14 @@
     }
   }
 }
+
+@media (max-width: 880px) {
+  .blog-grup {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 56px;
+    gap: 32px;
+    flex-wrap: wrap;
+    margin: auto;
+  }
+}

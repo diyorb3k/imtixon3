@@ -517,10 +517,17 @@ nav {
 @media (max-width: 880px) {
   .blog-grup {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     margin-top: 56px;
     gap: 32px;
     flex-wrap: wrap;
     margin: auto;
+  }
+  .main-heroo {
+    text-align: center;
+  }
+  .econ_itim {
+    justify-content: center;
+    margin: 0 auto;
   }
 }
