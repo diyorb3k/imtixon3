@@ -398,6 +398,7 @@ table {
   line-height: 60px;
   // text-align: left;
 }
+
 .lout {
   margin-right: 350px;
 }
@@ -474,17 +475,17 @@ nav {
         font-weight: 500;
         line-height: 12px;
         letter-spacing: 0.16em;
-
-        img {
-          padding-bottom: 32px;
-        }
         text-decoration: none;
-        font-family: Exo 2;
+        font-family: Exo;
         font-size: 13px;
         font-weight: 500;
         line-height: 19.5px;
         letter-spacing: 0.16em;
         color: white;
+
+        img {
+          padding-bottom: 32px;
+        }
       }
     }
   }
@@ -502,7 +503,9 @@ nav {
   color: white;
   padding-bottom: 29px;
 }
-
+.teble {
+  margin-top: 32px;
+}
 @media (max-width: 974px) {
   .tab-blog {
     flex-wrap: wrap;

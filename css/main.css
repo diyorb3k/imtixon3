@@ -1101,7 +1101,7 @@ nav ul li a {
   line-height: 12px;
   letter-spacing: 0.16em;
   text-decoration: none;
-  font-family: Exo 2;
+  font-family: Exo;
   font-size: 13px;
   font-weight: 500;
   line-height: 19.5px;
@@ -1125,6 +1125,10 @@ nav ul li a img {
   text-align: center;
   color: white;
   padding-bottom: 29px;
+}
+
+.teble {
+  margin-top: 32px;
 }
 
 @media (max-width: 974px) {
@@ -1601,7 +1605,7 @@ nav ul li a {
   line-height: 12px;
   letter-spacing: 0.16em;
   text-decoration: none;
-  font-family: Exo 2;
+  font-family: Exo;
   font-size: 13px;
   font-weight: 500;
   line-height: 19.5px;
@@ -1625,6 +1629,10 @@ nav ul li a img {
   text-align: center;
   color: white;
   padding-bottom: 29px;
+}
+
+.teble {
+  margin-top: 32px;
 }
 
 @media (max-width: 974px) {
